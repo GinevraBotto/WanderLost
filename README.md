@@ -4,4 +4,4 @@
 This project regards the implementation of an <b>interactive VR experience</b> in the <b>Museum of Palazzo Poggi</b> (Bologna), focused on the <b>effects of climate change</b> on our planet.
 <br>
 
-- The Twine interactive story can be found here: [Twine story](https://github.com/GinevraBotto/WanderLost/blob/main/twine.html))
+- The Twine interactive story can be found here: [Twine story](https://github.com/GinevraBotto/WanderLost/twine.html))
